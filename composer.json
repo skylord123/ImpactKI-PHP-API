@@ -1,0 +1,25 @@
+{
+    "name": "ImpactKI-PHP-API",
+    "description": "PHP library for connecting to the ImpactKI API",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Skylar Sadlier",
+            "role": "Developer",
+            "homepage": "https://github.com/skylord123"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/impactki/ImpactKI-PHP-API",
+        "issues": "https://github.com/impactki/ImpactKI-PHP-API/issues",
+        "wiki": "https://github.com/impactki/ImpactKI-PHP-API/wiki"
+    },
+    "require": {
+        "php": ">=5.2",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": { "ImpactKI-PHP-API": "." }
+    }
+}
