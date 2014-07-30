@@ -1,5 +1,5 @@
 {
-    "name": "ImpactKI-PHP-API",
+    "name": "impactki/impactki-php-api",
     "description": "PHP library for connecting to the ImpactKI API",
     "version": "1.0.0",
     "license": "MIT",
