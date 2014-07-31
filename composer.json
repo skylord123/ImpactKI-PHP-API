@@ -20,6 +20,6 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "psr-0": { "ImpactKI-PHP-API": "" }
+        "psr-0": { "ImpactAPI": "" }
     }
 }
